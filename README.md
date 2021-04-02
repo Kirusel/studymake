@@ -1,2 +1,2 @@
 # studymake
-Work with GitHum and make files
+Work with GitHub and make files
